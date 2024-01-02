@@ -1,0 +1,1 @@
+.\Sysmon64.exe -accepteula -i .\config.xml
